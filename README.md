@@ -19,7 +19,7 @@ Toda la información, descargas y documentación está disponible en:
 | | |
 |---|---|
 | 🌐 [Web oficial](https://joseqwrtt.github.io) | Información completa, precios y descarga |
-| 🛒 [Comprar licencia](https://srjosef9.lemonsqueezy.com/checkout/buy/74f21431-b9fe-4633-8b5a-2c58dae0f328?logo=0&discount=0) | Desde 3,9€/mes |
+| 🛒 [FREE](https://srjosef9.lemonsqueezy.com/checkout/buy/74f21431-b9fe-4633-8b5a-2c58dae0f328?logo=0&discount=0) | FREE |
 | 📦 [Releases](https://github.com/joseqwrtt/update_app/releases) | Todas las versiones disponibles |
 | 🐙 [Portafolio GitHub](https://github.com/joseqwrtt) | Otros proyectos |
 
