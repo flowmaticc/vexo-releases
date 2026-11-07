@@ -1,35 +1,41 @@
-# 📋 Plantillas Macro
+# Vexo - Expansor
 
-> Pega tus plantillas en cualquier aplicación de Windows con solo escribir `/`
+> Escribe `/` en cualquier programa de Windows y pega tus plantillas de Word, LibreOffice o texto con todo su formato.
 
----
+[![Última versión](https://img.shields.io/github/v/release/flowmaticc/vexo-releases?label=versi%C3%B3n&sort=semver)](https://github.com/flowmaticc/vexo-releases/releases/latest)
+[![Web](https://img.shields.io/badge/web-flowmaticc.github.io-6366f1)](https://flowmaticc.github.io/)
+![Windows 10/11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows&logoColor=white)
+![Gratis](https://img.shields.io/badge/precio-gratis-22c55e)
 
-## 🌐 Web oficial
+Vexo (antes **Plantillas Macro**) es un expansor de texto de [Flowmaticc](https://github.com/flowmaticc). Este repositorio solo contiene las **descargas**: cada versión publicada, con su ejecutable y sus notas.
 
-Toda la información, descargas y documentación está disponible en:
+## 📥 Descargar
 
-👉 **[https://flowmaticc.github.io](https://flowmaticc.github.io)**
+**[Descargar Vexo.zip (última versión)](https://github.com/flowmaticc/vexo-releases/releases/latest/download/Vexo.zip)**
 
-> **Requisitos:** Windows 10 o superior · 64 bits
+1. Descomprime `Vexo.zip` en la carpeta que quieras.
+2. Abre `Vexo.exe`. No necesita instalación.
+3. Elige la carpeta donde tienes tus plantillas y escribe `/` en cualquier programa.
 
----
+Requisitos: Windows 10 u 11 de 64 bits.
 
-## 📌 Enlaces rápidos
+## 🔄 Actualizaciones
 
-| | |
+Vexo comprueba solo si hay una versión nueva. Al pulsar **Instalar ahora** la descarga, verifica que el archivo no esté dañado ni manipulado (sha256) y se reinicia ya actualizado.
+
+Historial completo de cambios: [Releases](https://github.com/flowmaticc/vexo-releases/releases) · [Novedades en la web](https://flowmaticc.github.io/novedades/)
+
+> ¿Vienes de Plantillas Macro 3.0.0.20 o anterior? Descarga `Vexo.zip` desde el enlace de arriba y abre `Vexo.exe`: tus ajustes se copian solos la primera vez.
+
+## 📦 Contenido de cada versión
+
+| Archivo | Para qué sirve |
 |---|---|
-| 🌐 [Web oficial](https://joseqwrtt.github.io) | Información completa, precios y descarga |
-| 🛒 [FREE](https://srjosef9.lemonsqueezy.com/checkout/buy/74f21431-b9fe-4633-8b5a-2c58dae0f328?logo=0&discount=0) | FREE |
-| 📦 [Releases](https://github.com/joseqwrtt/update_app/releases) | Todas las versiones disponibles |
-| 🐙 [Portafolio GitHub](https://github.com/joseqwrtt) | Otros proyectos |
+| `Vexo.zip` | El programa (`Vexo.exe`) |
+| `version.json` | Lo lee Vexo para saber si hay versión nueva (versión, enlace y sha256) |
 
----
+Repositorios relacionados: [vexo-translations](https://github.com/flowmaticc/vexo-translations) (paquetes de idioma) · [flowmaticc.github.io](https://github.com/flowmaticc/flowmaticc.github.io) (web)
 
 ## 📬 Soporte
 
-¿Dudas o problemas?  
-📨 gestiona.optimiza@gmail.com
-
----
-
-<p align="center">Hecho con ☕ — Windows · Python · customtkinter</p>
+¿Dudas o problemas? Escribe a **gestiona.optimiza@gmail.com** o abre un [issue](https://github.com/flowmaticc/flowmaticc.github.io/issues).
